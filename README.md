@@ -8,7 +8,7 @@ gem install colorize
 ## Usage
 Download or clone this repo and then:
 ```ruby
-require './RubyTicTacToe'
+require './RubyTicTacToe/loader'
 tic_tac_toe = TicTacToe::TicTacToe.new
 tic_tac_toe.start_game
 ```
